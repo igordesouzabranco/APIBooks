@@ -38,11 +38,11 @@ Esta é uma API REST simples que permite a manipulação de dados de livros. A A
 ## Endpoints
 | Método | Endpoint                | Descrição                      |
 |--------|-------------------------|-------------------------------|
-| POST   | /livros                 | Cria um novo livro            |
-| GET    | /livros                 | Lista todos os livros         |
-| GET    | /livros/{id}           | Obtém um livro pelo id         |
-| PUT    | /livros/{id}           | Atualiza um livro             |
-| DELETE | /livros/{id}           | Exclui um livro               |
+| POST   | /books                 | Cria um novo livro            |
+| GET    | /books                 | Lista todos os livros         |
+| GET    | /books/{id}           | Obtém um livro pelo id         |
+| PUT    | /books/{id}           | Atualiza um livro             |
+| DELETE | /books/{id}           | Exclui um livro               |
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou um Pull Request.
