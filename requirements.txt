@@ -1,0 +1,5 @@
+Flask==2.3.3
+marshmallow==3.20.1
+Flask-RESTX==0.5.1
+SQLAlchemy==2.0.21
+Flask-Marshmallow==0.15.0
