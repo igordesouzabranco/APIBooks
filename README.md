@@ -40,7 +40,7 @@ Esta é uma API REST simples que permite a manipulação de dados de livros. A A
 |--------|-------------------------|-------------------------------|
 | POST   | /livros                 | Cria um novo livro            |
 | GET    | /livros                 | Lista todos os livros         |
-| GET    | /livros/{id}           | Obtém detalhes de um livro    |
+| GET    | /livros/{id}           | Obtém um livro pelo id         |
 | PUT    | /livros/{id}           | Atualiza um livro             |
 | DELETE | /livros/{id}           | Exclui um livro               |
 
